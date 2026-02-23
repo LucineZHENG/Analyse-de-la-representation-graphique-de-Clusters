@@ -1,0 +1,340 @@
+📖 === 作品 [EN]: AINSWORTH (TOP 20) ===
+Entité (搜索词)  Occurrence  Max Cluster Size                                                                     Exemples
+         I’m           6               494                                              Even if I’m catched, I’m, I’m a
+         And           5               528                                                    Millbank, Strange, Strand
+         Her           5                95                         Her, Auriol understand that he should give her, Here
+   Rougemont           5                16                       Rougemont authoritatively, Rougemont found, Rougemont’
+        That           5                10                                                       At that, Athanor, That
+       Their           5                 8                                                                 Their, These
+        Your           5                 6                               The coarsest ribaldry assailed your ears, Your
+      Before           5                 5                                                            Before, Wherefore
+        Much           5                 5                                                   I’d hang such, Such, Fiend
+        Upon           5                 4                                                                         Upon
+      Though           5                 4                                                                       Though
+         It’           5                 4                                                                 It’, Ha!—who
+      Answer           5                 3                                                                       Answer
+         Mr.           4               208 Rougemont authoritatively, Avaunt, Auriol understand that he should give her
+  Bow Street           4                11                                     Bow Street, Bond Street, Abingdon Street
+      Auriol           4                11                            Auriol, Auriol understand that he should give her
+      Halloa           4                 8                                             Halloa, Vauxhall Road, Pall Mall
+         Try           4                 8                                                              An instant, Try
+       Bathe           4                 7                                                             Otherwise, Bathe
+     He held           4                 7                                                       West End hair, He held
+--------------------------------------------------------------------------------
+
+📖 === 作品 [EN]: BRONTE_Wuthering-heights (TOP 20) ===
+      Entité (搜索词)  Occurrence  Max Cluster Size                                                                                Exemples
+               I'm           9               859                                              I do wish, Catherine, I'm older than he is
+               And           8               112                  England, A man', Linton and\n                        I—and you are not
+               Her           7                18                                                                    Her, Her thick, Here
+               Now           7                 8                                                                        Now, Nobody, How
+              They           7                 7                                             They, I found\n                        they
+           Maister           7                 7                                  Maister', I\n                        listened, Maister
+              Then           7                 7                                                                            Then, Phenix
+Thrushcross Grange           7                 7 Thrushcross\n                        Grange, Thrushcross Grange—not, Thrushcross Grange
+          At least           7                 6                                                                                At least
+               He'           7                 6                                                                          She', He', She
+           Because           7                 4                                                                                 Because
+          Nonsense           7                 3                                                                                Nonsense
+               Why           7                 3                                                                                     Why
+               It'           7                 3                                                                                     It'
+              Nice           7                 3                                                                                    Nice
+               Nab           6                37                                                                      Nay, Yah, I feared
+              What           6                19                                                                I do—that', Cathy', What
+              Mine           6                18                                                            Hindley', Nothing, Retracing
+              That           6                15                                                             I do—that', Wash that, That
+            Though           6                13                                                                                  Though
+--------------------------------------------------------------------------------
+
+📖 === 作品 [EN]: GASKELL (TOP 20) ===
+Entité (搜索词)  Occurrence  Max Cluster Size                                            Exemples
+         Nor           8              1290                           Portugal, Providence, Nor
+         Mr.           8              1173               Save, Buckinghamshire parish, Sankey'
+         Her           7               280                                 Her, Here, Hereupon
+         And           7                22                                Jane, Nancy, England
+       Which           7                21                    Meanwhile, Which, I forget which
+        That           7                20 Chatham Island, Sabbath, Thy nose is sharpish at th
+      Answer           7                19                        Deansgate, We answer, Answer
+    Although           7                18                                            Although
+       Their           7                15                                      Madeira, Their
+         Not           7                14                            Nottingham, Nothing, Not
+        Such           7                13                   Much, I'm much mistaken, How much
+        With           7                12                                                With
+        Will           7                12                                Wilful, Will, Billy'
+         Nay           7                12                                Tuesday, Nay, Essays
+         For           7                11                           For sure, Folks, Bamford'
+       Would           7                 9                     I feel,—may-be she would, Would
+      Before           7                 8                               Before, I said before
+         We'           7                 8                              Howe'er, Alice', Duke'
+        Once           7                 7                                    Providence, Once
+         It'           7                 7                                        Frabbit, It'
+--------------------------------------------------------------------------------
+
+📖 === 作品 [FR]: ADAM (TOP 20) ===
+Entité (搜索词)  Occurrence  Max Cluster Size                            Exemples
+         Las           9               130              Assis, Vénus, Perpétue
+        Pour           8                 7                Poulains, Tour, Pour
+        Nord           7                 8             Sortez, Nord, Morlinval
+       Paris           6                12 Parisiens, Carrière-Fondue, Charité
+       Vieux           6                 7               Vieux, Vénus, Artaban
+        Avez           6                 6          Comprenez, Relevez, Sortez
+     Bonnets           6                 6        Bonnets, Jeacquet, Jeanneton
+        Bien           6                 6             Vierge, Retiens, Devise
+        Sois           6                 6              Voilà, Pauvre, Bonsoir
+        Rose           6                 5               Devise, Crachez, Rose
+        Riez           6                 4                  Votre, Allez, Riez
+        Faut           6                 3          Faut, Pauvre, Palais-Royal
+       Céran           5                 8               Céran, Cellier, Alger
+       Assis           5                 6           Sitôt, Favette, Cassiopée
+       As-tu           5                 6  Crois-tu, Hommes-sans-Têtes, As-tu
+        État           5                 4               État, Artaban, Satané
+       Tâche           5                 4              Tâche, Crachez, Cachez
+      Agréez           5                 4           Bérénice, Désirée, Agréez
+   Morlinval           5                 4   Garde-les, Morlincourt, Morlinval
+      Habile           5                 4           Lambin, Le soleil, Habile
+--------------------------------------------------------------------------------
+
+📖 === 作品 [FR]: AIMARD_RIVIERE (TOP 20) ===
+Entité (搜索词)  Occurrence  Max Cluster Size                                  Exemples
+         Och           9               400      Indien Belaware, Indien, Les Indiens
+ Œil-de-Bœuf           7                 3    Corne-bœuf !, Œil-de-Bœuf, Œil-de-bœuf
+         Ami           6                94                 Holà, États-Unis, Hermine
+        Mlle           6                24                   Tulle, Telles, Laquelle
+         Tes           6                16         Sans-Piste, Maleval, Terre Sainte
+        Nord           6                 8                  Cordieu, Bordeaux, Formé
+       Assis           6                 8              Louisiane, Mississipi, Assis
+      Aigle-           6                 8            Maigre, Aigle-, L'Aigle-Volant
+        Ohio           6                 8                              Ohio, L'Ohio
+         Est           6                 7                     Holà, Relevez, Sommes
+    Marigots           6                 7 Marigots, Royal-Marine, Anse-aux-Marigots
+        Ward           6                 7                   Ward, Niagara, Gueusard
+         Les           6                 7          Castille, Sans-Piste, Jumonville
+    Occident           6                 6           Providence, Accidenté, Occident
+   Nécessité           6                 6                     Petit-Fort, Nécessité
+         Eux           6                 6                 Coulon, Furieuse, Joignez
+       Sonne           6                 6              Pardonne, Pardon, Abandonnez
+        Avez           6                 6                  Bravo, Relevez, Penserez
+        Vire           6                 5                     Votre, Virginie, Vire
+     Rivière           6                 5     Rivière, Belle Rivière, Belle-Rivière
+--------------------------------------------------------------------------------
+
+📖 === 作品 [FR]: AIMARD_TRAPPEURS (TOP 20) ===
+Entité (搜索词)  Occurrence  Max Cluster Size                           Exemples
+         Luz           9               298            J'ai, La Tête, Prologue
+        État           7               158      États-Unis, Prologue, Guaymas
+      Soleil           7                 9         Le soleil, Pawnees, Soleil
+      Europe           7                 6        Belhumeur, Europe, Créateur
+     Buffalo           7                 5                 Buffalo, Caballero
+         Och           6                71      Meegvoitch, Grande, Apacheria
+       Bison           6                 9        Bison, Chimborazo, Habitués
+       Blanc           6                 8      Tête-Blanche, Blancs, Durango
+       Voilà           6                 7     Meegvoitch, Conseille, Aguilar
+        Rome           6                 7             Rome, Prologue, Prompt
+        Avez           6                 6            Québec, Répondez, Ouest
+       Cerro           6                 6 Merced, Cerro de la campana, Cerro
+       Élan-           6                 6        Noirs, L'Élan-Noir, Chinois
+         TUE           6                 6                      TUE, Habitués
+      Gardez           6                 6         Bermudez, Accordez, Gardez
+       Incas           6                 5          Incas, Vaincue, Convaincu
+      Utique           6                 5          Utique, Amérique, Mexique
+     Écoutez           6                 5                 Ouaktehno, Écoutez
+ Vieux-Chêne           6                 5                        Vieux-Chêne
+       Hâtez           6                 5                    Hâtez, Arkansas
+--------------------------------------------------------------------------------
+
+📖 === 作品 [FR]: AUDOUX (TOP 20) ===
+    Entité (搜索词)  Occurrence  Max Cluster Size                                  Exemples
+             Eau           8                67                   Sautons, Sologne, Douze
+      Saint-Jean           8                 5 Saintes Huiles, Saint-Jean, La Saint-Jean
+             Vin           6                17                    Castille, Vin, Sologne
+           Paris           6                 8           Parfois, Gué Perdu, Marie-Aimée
+            Hier           6                 6                 Châtaigniers, Merci, Hier
+          Étoile           6                 5           Villevieille, Castille, Bel-Œil
+          Tireli           6                 5               Tirande, Orphelinat, Tireli
+            Rome           5                 6          Rome, Tirande, La grosse Mélanie
+           Tiens           5                 6                 Sautons, Communs, Combien
+Désiré-des-Anges           5                 3       Désirée-des-Anges, Désiré-des-Anges
+         Quelque           5                 3           Quelquefois, Augustine, Quelque
+      Orphelinat           5                 2                                Orphelinat
+         Combien           4                 7                 Communs, Bibiche, Combien
+        Castille           4                 4 Mlle Maximilienne, Villevieille, Castille
+         Mélanie           4                 3                Mélanie, La grosse Mélanie
+         Sologne           3                 5       Sologne, Augustine, Sainte-Montagne
+         Bibiche           3                 5                                   Bibiche
+         Ismérie           3                 4                      Ismérie, Marie-Aimée
+         Martine           3                 2                        Augustine, Martine
+           Douze           2                 4                                     Douze
+--------------------------------------------------------------------------------
+
+📖 === 作品 [FR]: BALZAC (TOP 20) ===
+Entité (搜索词)  Occurrence  Max Cluster Size                                                    Exemples
+         Est           9               285                             Ministère, Charivari, Gentillet
+    Besançon           7                 6 Chapitre de la cathédrale de Besançon, A Besançon, Besançon
+     Afrique           7                 5                                           Belgique, Afrique
+        Dent           6                84                           Calard, Dent de Vilard, Charivari
+      Arcier           6                10                                Arcier, Industrie, Tuileries
+        Avez           6                 9                              États-Romains, Salins, Romains
+        État           6                 9                               États-Romains, Rome, Autriche
+        Cour           6                 8                                    Bourg, Jura, Chavoncourt
+        Rhin           6                 7                                 Rhône, Dauphin, Gandolphini
+      Palais           6                 7                                 Anglaise, Palais, Anglaises
+       Milan           6                 7                                     Hollande, Pilate, Opéra
+       Loire           6                 6                                     Chapitre, Chaire, Loire
+    Nouvelle           6                 6                             Nouvelle, Vauchelles, Granvelle
+       Berne           6                 6                             Gouvernement, Ferney, Retournez
+       Neuve           6                 6                                  Gouvernement, Neuve, Rhône
+        Sois           6                 5                                   Genève, Genevois, Comtois
+      Suisse           6                 5                                     Suisse, Suisses, Amédée
+        Scey           6                 5                                  Balthasar, Bugey, Autriche
+       Tinti           6                 5                             Bisontins, Visconti, Magdeleine
+        Rupt           6                 5                          Nobles, Hôtel National, Napolitain
+--------------------------------------------------------------------------------
+
+📖 === 作品 [FR]: CARRAUD (TOP 20) ===
+Entité (搜索词)  Occurrence  Max Cluster Size                              Exemples
+         Tes           9               114           Petite Jeanne, Tes, Sais-tu
+       Es-tu           7                 8           Crois-tu, Sais-tu, Embrasse
+        Avez           7                 6           Petite Jeanne, Voyez, Savez
+         Oui           6                15              Afrique, Écoutez, Voulez
+        Cher           6                 8          Hautes-Roches, Merci, Mettez
+       Berry           6                 7                Berry, Sylvain, Tixier
+      Durand           6                 6         Jusserand, Durand, Grand-Bail
+       Tiens           6                 6               Conviens, Tixier, Tiens
+         Pas           5                24    Jusserand, Mesdemoiselles, Afrique
+        Sois           5                 7       Crois-tu, Mesdemoiselles, Crois
+      Prends           5                 5             Attends, Prends, Apprenez
+       Vatan           5                 5               Conviens, Tiens, Coupez
+      Laisse           5                 4                      Embrasse, Laisse
+       Paris           5                 4                          Grise, Paris
+     Bourges           5                 3                               Bourges
+        Dis-           4                14               Maman, Allons, Crois-tu
+       Voyez           4                 7          Voyez, Voulez, Payez-les-moi
+      Mettez           4                 5       Mettez, Nannette, Petite Jeanne
+  Grand-Bail           4                 4 Grand-Bail, Grand Bail, Le Grand-Bail
+     Sais-tu           4                 3                               Sais-tu
+--------------------------------------------------------------------------------
+
+📖 === 作品 [FR]: DASH (TOP 20) ===
+Entité (搜索词)  Occurrence  Max Cluster Size                              Exemples
+         Pas           9               193                     Maures, Pas, Plût
+        Cour           6                17             Tours, Heudicourt, Courcy
+         Est           6                 8               Estrées, Grâces, Estrée
+       Clany           6                 8    Cour de France, Flandre, Normandie
+         Oui           6                 7     Soissons, Sissone, Louis-le-Grand
+       Mothe           6                 6     Mothe-Houdancourt, Cherche, Mothe
+        Avez           6                 6                   Voyez, Cédez, Savez
+       Bussy           6                 5   M. de Bussy, Bussy, Bussy d'Amboise
+      Rémond           6                 5             Rémond, Beaupré, Desmonté
+        Rhin           5                11  Ursulines, Saint-Quentin, Interrogez
+     Espagne           5                 8          Espagne, Deschamps, Pignerol
+       Anizy           5                 8                 Fayel, Dangeau, Anizy
+        Pons           5                 7     Cercle, Inconséquence, Providence
+      France           5                 6 Écu de France, Cour de France, France
+   Chavignon           5                 5    Chapelain, Bouchavannes, Chavignon
+       Cossé           5                 5            Cossé, Lassée, Cœur-de-Roy
+       Pinon           5                 5     Inconséquence, Providence, Pauvre
+       Cédez           5                 5                 Cédez, Devinez, Paris
+     Comment           5                 4       Comment, Vraiment, Parfaitement
+   Bohémiens           5                 2                             Bohémiens
+--------------------------------------------------------------------------------
+
+📖 === 作品 [FR]: DAUDET (TOP 20) ===
+Entité (搜索词)  Occurrence  Max Cluster Size                                                      Exemples
+         Rio           8               364                        Nécrophores, Cristaux, Saint-Théophile
+        Avez           7                 5                                           Caveau, Turc, Savez
+       Pouah           6                13                                  Bohême, Courage, Muse sévère
+       Chine           6                10                                 Colombine, Chine, Champenoise
+        Cher           6                 9                                    Perrache, Evêché, Approche
+     Comment           6                 9                          Confusément, Entrerai-je, Décidément
+        Sois           6                 9                                     Champenoise, Bravo, Voyez
+        Bons           6                 9                                       Bohême, Dépêchons, Bons
+      Montez           6                 8                     Montparnasse, Désir-de-plaire, Montmartre
+        Rome           6                 8                                   Providence, Rome, Souwaroff
+       Quels           6                 7                             Quelquefois, Bouzanquet, Ménalque
+       Sonne           6                 7                        Ancienne maison, Grenelle, Muse sévère
+     Grillon           6                 6 PAPILLON \nGrimpe, Papillon, PAPILLON \nTrouves-tu mon Muguet
+      Naples           6                 6                               Tes chemises, Chenilles, Naples
+        Vive           6                 5                             Providence, Comprenez, Université
+      Alsace           6                 5                                    Alsace, Alsacien, Algérien
+     Cévenol           6                 5                                   Cévenole, Cévennes, Cévenol
+     Musette           6                 5                                    Fouette, Eyssette, Musette
+        Mlle           6                 5                                        Palerme, Vallée, Allez
+        Midi           6                 4                          Lamartine d'Elvire, Midi, Providence
+--------------------------------------------------------------------------------
+
+📖 === 作品 [FR]: FLAUBERT (TOP 20) ===
+Entité (搜索词)  Occurrence  Max Cluster Size                              Exemples
+         Ton           9               879              Charivari, Creton, Melun
+       Corse           7                 6               Corse, Rudorff, Corbeil
+       Es-tu           7                 5              Où es, As-tu cent, As-tu
+   Andalouse           7                 4      Balandard, Andalouses, Andalouse
+    L'Olympe           7                 3            L'Olympe, Olympe Regimbart
+        Turc           7                 3                   Turque, Turcs, Turc
+      Saumon           6                17         Moreau, Montereau, Longjumeau
+       Otant           6                16 Panthéon, Constantinople, Considérant
+       Assis           6                12            Suisse, Impossible, Assise
+        Lyon           6                12            Frisonne, Lélia, Trocadéro
+        Irez           6                12                Hydre, Reynolds, Foire
+        Rhin           6                11             Chine, Sphinx, Hiérarchie
+        Bray           6                11               Gymnase, Bravo, Algérie
+        Cour           6                11            Véfour, Pompadour, Ecoutez
+       Frank           6                10   Frank, Collège de France, La France
+        Rome           6                10                   Somme, Rome, Bohême
+       Ponts           6                 9                  Poncif, Japon, Ponts
+      Vêpres           6                 8       Sèvres, Premières, Laromiguière
+       Maman           6                 8       Maman, Grands Lamas, Salamanque
+       Quels           6                 8   Quelquefois, Turque, Bouquet-du-Roi
+--------------------------------------------------------------------------------
+
+📖 === 作品 [FR]: MAUPASSANT (TOP 20) ===
+Entité (搜索词)  Occurrence  Max Cluster Size                            Exemples
+         Qué           7               248        Quelquefois, Mignonne, Grèce
+     Afrique           7                 6 L'Amérique, Afrique, Anti-physiques
+        Avez           7                 5                 Bravo, Fuyez, Savez
+   Le soleil           7                 4                           Le soleil
+       Tiens           6                10         Envoie, Impatienté, Attirée
+         Las           6                10           Quelquefois, Grèce, Songe
+       Corse           6                 9           Fuyez, Corniche, La Corse
+        Cany           6                 8             Cana, Rosalie, Religion
+        Mars           6                 7               Sèvres, Cargèse, Mars
+     Normand           6                 7       Hollande, Normandie, Normande
+        Lise           6                 7               Religion, Lise, Songe
+ Pas de lune           6                 6  Pas de lune, Le Perthuis des Vauds
+       Voyez           6                 6            Fuyez, Sacré-Cœur, Voyez
+      Italie           6                 6           Oriental, Italie, Rosalie
+       Picot           6                 6       Chicorées, Vaucotte, Corniche
+      Suisse           6                 5        Suisse, Roi-Louis, Encaissée
+       Chine           6                 5            Chine, Romaines, Chinois
+      Bolbec           6                 4        Bolbec, Albertacce, Gilberte
+         Eut           5                44                   Hauts, Eut, Grèce
+       Folle           5                19         Hollande, Briseville, Folle
+--------------------------------------------------------------------------------
+
+📖 === 作品 [FR]: NOAILLES (TOP 20) ===
+Entité (搜索词)  Occurrence  Max Cluster Size                               Exemples
+         Ève           9               158 Étonnante enfance, Quelquefois, Suisse
+         Est           6                41               Sèvres, Bruyères, Bohême
+       Seine           6                 9               Dauphiné, Berlin, Sabine
+      Montez           6                 9        Pomone, Mont-Valérien, Remontée
+       Nancy           6                 8     Étonnante enfance, Michelet, Nancy
+        Sois           6                 8                   Bohême, Assise, Bois
+        Azow           6                 6                Hollande, Grèce, Égypte
+       Flore           6                 6           Flore, Dauphiné, Saint-Cloud
+       Leurs           6                 6   Asie Mineure, Elseneur, Fabien Mauri
+      Italie           6                 5               Italie, Cordoue, Italien
+       Rouen           6                 4                 Vosges, Courbée, Rouen
+       Paris           6                 4                   Paris, Partez, Parme
+         Pas           6                 4                      Pas, Passy, Voyez
+      Pierre           6                 3             Michelet, Pierre, Obstinée
+     Jacques           6                 2                  Jacques, Jean-Jacques
+      Vienne           5                 7            Courbée, Lausanne, Touraine
+      Muette           5                 6     Quelquefois, Jean-Jacques, Jacques
+      Tolède           5                 6             Hollande, Anatolie, Tolède
+      Régent           5                 6              Régent, Agrigente, Genève
+      Louvre           5                 5            Sèvres, Saint-Cloud, Louvre
+--------------------------------------------------------------------------------
+
+✅ 汇总报告：
+   - corpus_en (英语作品) 共分析了: 3 部
+   - corpus_fr (法语作品) 共分析了: 11 部
+   - 总计分析作品: 14 部
