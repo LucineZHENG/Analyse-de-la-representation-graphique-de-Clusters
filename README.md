@@ -1,3 +1,4 @@
+
 # Évaluation du Clustering d'Entités Nommées en Environnement OCR Bruité (Projet M2 TAL)
 
 ---
@@ -13,6 +14,7 @@ Ce projet est le travail final de l'UE **"Paradigmes d'évaluation du TAL"** du 
 
 > **La problématique centrale :** > Comment évaluer la capacité des algorithmes de clustering à regrouper les variantes d'entités nommées (principalement des toponymes) dans des textes affectés par les erreurs OCR, **en l'absence d'un « standard d'or » complet** ? [cite: 17, 265]
 
+---
 ---
 
 ## 📁 Description des fichiers
