@@ -1,11 +1,19 @@
 # Évaluation du Clustering d'Entités Nommées en Environnement OCR Bruité (Projet M2 TAL)
 
+---
+
 ## 🎓 Contexte et Origine du Projet
-Ce projet est le travail final de l'UE **"Paradigmes d'évaluation du TAL"** du **Master 2 Langue et Informatique** à **Sorbonne Université** (2025-2026), dirigé par **M. Gaël LEJEUNE**.
+Ce projet est le travail final de l'UE **"Paradigmes d'évaluation du TAL"** du **Master 2 Langue et Informatique** à **Sorbonne Université** (2025-2026), dirigé par **M. [cite_start]Gaël LEJEUNE**[cite: 7, 12, 13].
 
-Ce projet vise à évaluer l'impact de la « pollution des entités » générée par la Reconnaissance Optique de Caractères (OCR) sur la qualité du clustering des entités nommées. À travers l'analyse de 14 œuvres littéraires du corpus ELTeC (en français et en anglais), nous comparons les performances de 9 algorithmes de clustering appliqués à différentes chaînes de traitement OCR.
+### 🎯 Objectif du Projet
+[cite_start]Ce projet vise à évaluer l'impact de la **« pollution des entités »** générée par la Reconnaissance Optique de Caractères (**OCR**) sur la qualité du clustering des entités nommées[cite: 15]. 
 
-Le cœur de l'étude réside dans la question suivante : comment évaluer la capacité des algorithmes de clustering à regrouper les variantes d'entités nommées (principalement des toponymes) dans des textes affectés par les erreurs OCR, en l'absence d'un « standard d'or » complet ?
+* [cite_start]**Corpus** : Analyse de 14 œuvres littéraires du corpus **ELTeC** (en français et en anglais)[cite: 19, 30].
+* **Méthodologie** : Comparaison des performances de **9 algorithmes de clustering** appliqués à différentes chaînes de traitement OCR (Kraken, Tesseract, etc.)[cite: 22, 60].
+
+> **La problématique centrale :** > Comment évaluer la capacité des algorithmes de clustering à regrouper les variantes d'entités nommées (principalement des toponymes) dans des textes affectés par les erreurs OCR, **en l'absence d'un « standard d'or » complet** ? [cite: 17, 265]
+
+---
 
 ## 📁 Description des fichiers
 
