@@ -3,10 +3,9 @@
 ## 🎓 Contexte et Origine du Projet
 Ce projet est le travail final de l'UE **"Paradigmes d'évaluation du TAL"** du **Master 2 Langue et Informatique** à **Sorbonne Université** (2025-2026), dirigé par **M. Gaël LEJEUNE**.
 
+Ce projet vise à évaluer l'impact de la « pollution des entités » générée par la Reconnaissance Optique de Caractères (OCR) sur la qualité du clustering des entités nommées. À travers l'analyse de 14 œuvres littéraires du corpus ELTeC (en français et en anglais), nous comparons les performances de 9 algorithmes de clustering appliqués à différentes chaînes de traitement OCR.
 
-### Ce projet vise à évaluer l'impact de la « pollution des entités » générée par la Reconnaissance Optique de Caractères (OCR) sur la qualité du clustering des entités nommées. À travers l'analyse de 14 œuvres littéraires du corpus ELTeC (en français et en anglais), nous comparons les performances de 9 algorithmes de clustering appliqués à différentes chaînes de traitement OCR.
-
-### Le cœur de l'étude réside dans la question suivante : comment évaluer la capacité des algorithmes de clustering à regrouper les variantes d'entités nommées (principalement des toponymes) dans des textes affectés par les erreurs OCR, en l'absence d'un « standard d'or » complet ?
+Le cœur de l'étude réside dans la question suivante : comment évaluer la capacité des algorithmes de clustering à regrouper les variantes d'entités nommées (principalement des toponymes) dans des textes affectés par les erreurs OCR, en l'absence d'un « standard d'or » complet ?
 
 ## 📁 Description des fichiers
 
