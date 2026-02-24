@@ -27,7 +27,7 @@ Ce projet vise à évaluer l'impact de la **« pollution des entités »** gén�
 ### Documentation
 * **`Rapport.pdf`** : Rapport technique détaillé présentant la méthodologie et l'analyse des trois métriques clés : **Purity** (Pureté), **Indice AOS** (Taux de couverture) et **Silhouette** (Cohésion).
 
----
+
 
 ## 🚀 Reproduction de l'expérience
 
