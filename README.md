@@ -1,7 +1,5 @@
 # Évaluation du Clustering d'Entités Nommées en Environnement OCR Bruité (Projet M2 TAL)
 
----
-
 ## 🎓 Contexte et Origine du Projet
 Ce projet est le travail final de l'UE **"Paradigmes d'évaluation du TAL"** du **Master 2 Langue et Informatique** à **Sorbonne Université** (2025-2026), dirigé par **M. Gaël LEJEUNE**.
 
@@ -13,8 +11,6 @@ Ce projet vise à évaluer l'impact de la **« pollution des entités »** gén�
 
 > **La problématique centrale :** > Comment évaluer la capacité des algorithmes de clustering à regrouper les variantes d'entités nommées (principalement des toponymes) dans des textes affectés par les erreurs OCR, **en l'absence d'un « standard d'or » complet** ?
 
----
----
 
 ## 📁 Description des fichiers
 
