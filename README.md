@@ -1,7 +1,9 @@
 # Évaluation du Clustering d'Entités Nommées en Environnement OCR Bruité (Projet M2 TAL)
 
-Ce projet porte sur l'évaluation de l'impact de la « pollution des entités » générée par la Reconnaissance Optique de Caractères (OCR) sur la qualité du clustering d'entités nommées. À travers l'analyse de 14 œuvres littéraires du corpus **ELTeC** (français et anglais), nous comparons les performances de 9 algorithmes de clustering sous différentes chaînes de traitement OCR.
+## 🎓 Contexte et Origine du Projet
+Ce projet est le travail final de l'UE **"Paradigmes d'évaluation du TAL"** du **Master 2 Langue et Informatique** à **Sorbonne Université** (2025-2026), dirigé par **M. Gaël LEJEUNE**.
 
+L'étude porte sur la capacité des algorithmes de clustering à regrouper les variantes d'entités nommées (toponymes) altérées par la Reconnaissance Optique de Caractères (OCR) au sein du corpus littéraire **ELTeC**.
 ---
 
 ## 📁 Description des fichiers
